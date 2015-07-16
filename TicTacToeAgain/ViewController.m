@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"HELLO DAVID! I created a new project for you");
     //Thank you!
+
+    // You are welcome David!
     
 }
 
